@@ -12,7 +12,7 @@ It is widely used in both academic settings and by practitioners in the field of
 
 The repository is organized by chapters, with each chapter having its own directory containing the exercises for that chapter.
 Each exercise is accompanied by a detailed solution implemented in R. The structure is as follows:
-```sh
+
 ISLR-Exercises/
 ├── Chapter1/
 │ ├── Exercise1.R
@@ -24,7 +24,7 @@ ISLR-Exercises/
 └── Chapter10/
 ├── Exercise1.R
 └── Exercise2.R
-```sh
+
 
 ## How to Use This Repository
 
@@ -61,4 +61,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 Special thanks to the authors of An Introduction to Statistical Learning for providing such a valuable resource for learning statistical methods and data science.
+
+
+
 
