@@ -25,14 +25,14 @@ ISLR-Exercises/
 └── Chapter10/
 ├── Exercise1.R
 └── Exercise2.R
-
+```
 
 ## How to Use This Repository
 
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/your-username/ISLR-Exercises.git
-
+```
 ### Navigate to the Desired Chapter
 cd ISLR-Exercises/Chapter1
 
@@ -53,7 +53,7 @@ You can install these packages by running:
 
 ```sh
 install.packages(c("ISLR", "ggplot2", "dplyr", "caret", "MASS", "randomForest"))
-
+```
 ## Contributing
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
 
