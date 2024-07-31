@@ -12,15 +12,15 @@ It is widely used in both academic settings and by practitioners in the field of
 
 The repository is organized by chapters, with each chapter having its own directory containing the exercises for that chapter.
 Each exercise is accompanied by a detailed solution implemented in R. The structure is as follows:
-/ISLR-Exercises
-├── Chapter1
+ISLR-Exercises/
+├── Chapter1/
 │ ├── Exercise1.R
 │ └── Exercise2.R
-├── Chapter2
+├── Chapter2/
 │ ├── Exercise1.R
 │ └── Exercise2.R
 │ ...
-└── Chapter10
+└── Chapter10/
 ├── Exercise1.R
 └── Exercise2.R
 
