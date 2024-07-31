@@ -31,7 +31,7 @@ ISLR-Exercises/
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/ISLR-Exercises.git```
+   git clone https://github.com/your-username/ISLR-Exercises.git
 
 ### Navigate to the Desired Chapter
 cd ISLR-Exercises/Chapter1
